@@ -1,0 +1,25 @@
+# IDEs e Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Ferramentas da Antigravity/Agentes
+.agents/
+
+# Dependências e Builds
+node_modules/
+dist/
+build/
+*.log
+
+# Variáveis de Ambiente e Segredos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
